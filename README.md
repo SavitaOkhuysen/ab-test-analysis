@@ -4,7 +4,7 @@ A statistical analysis of a real A/B test with 90,189 users, evaluating whether 
 
 ## Dataset
 
-Cookie Cats A/B testing dataset (90,189 users). A real experiment from a mobile game testing whether changing when users hit a progression gate affects Day 1 and Day 7 retention. Source: Kaggle (public domain).
+Cookie Cats A/B testing dataset (90,189 users). A real experiment from a mobile game testing whether changing when users hit a progression gate affects Day 1 and Day 7 retention. Source:https://www.kaggle.com/datasets/yufengsui/mobile-games-ab-testing (public domain, via Kaggle).
 
 ## Why This Analysis Matters for Product Teams
 
